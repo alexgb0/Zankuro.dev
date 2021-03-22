@@ -1,0 +1,30 @@
+body {
+    color: #BFBFBF;
+    background-color: #121212;
+    font-family: monospace;
+}
+
+button {
+    all:unset;
+    color: #FF9AC1;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+a {
+    text-decoration: none;  
+    color: #FF9AC1;
+}
+a:link, a:visited {
+    color: #FF9AC1;
+}
+
+a:hover, button:hover {
+    color: #FF75B5;
+}
+
+em {
+    color: #45A9F9;
+    font-style: normal;
+}
